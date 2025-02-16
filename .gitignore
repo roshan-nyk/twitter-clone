@@ -1,0 +1,12 @@
+.vscode
+.idea
+.dart_tool
+.flutter-plugins
+.flutter-plugins-dependencies
+flutter_01.log
+pubspec.lock
+android/.idea
+android/.gradle
+android/build
+android/app/build
+build
