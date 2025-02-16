@@ -1,19 +1,22 @@
-# roshan_twitter_clone
+This project is a clone of Twitter(now X) made with Flutter.
 
-A new Flutter project.
+For backend communication, I have used [Appwrite](https://appwrite.io/) as BAAS (Backend as a Service) to store data.
 
-## Getting Started
+Used shorebird for realtime app updates.
 
-This project is a starting point for a Flutter application.
+Current features:
+- Login
+- Signup
+- Profile
+- Posts along with pictures
+- Like and unlike posts
+- Retweet
+- Follow and unfollow users
+- Notifications regarding like, retweet
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note :- All these features are only available for logged in users. 
+        This app was built few months before Twitter was changed its name to X. 
+        I built this app as my side project to learn Flutter.
 
 
 [//]: # (To copy path of a file in mac short cut is cmd + shift + c)
